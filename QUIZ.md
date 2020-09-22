@@ -1,10 +1,11 @@
-# Quiz
+ Explain how git enables saving codee# Quiz
 
 Answer the following questions. Add each answer in a separate commit. (E.g. fill in the answer for question 1. commit your changes. add the answer for question 2. commit your changes. add the answer for question 3. commit your changes)
 
 1. Explain how git enables saving code.
 
 Git allows users to save code by providing a codebase, or repository, for code at any period in development. The working code directory can then be used to experiment and make changes which may or may not be committed to the repository.
+ource code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control.
 
 2. Explain how git enables tracking code.
 
